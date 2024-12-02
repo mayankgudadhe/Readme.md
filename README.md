@@ -1,7 +1,7 @@
 # Readme.md
 # Hi there, I'm Mayank Gudadhe 👋
 
-Welcome to my GitHub profile! I am a passionate **DevOps Engineer** and **Full Stack Developer** with a focus on cloud infrastructure, automation, and continuous delivery. I specialize in building scalable applications and optimizing development pipelines for high-performance and seamless deployment.
+Welcome to my GitHub profile! I am a passionate **DevOps Engineer** with a focus on cloud infrastructure, automation, and continuous delivery. I specialize in building scalable applications and optimizing development pipelines for high-performance and seamless deployment.
 
 ## 🔧 Technologies & Tools
 
