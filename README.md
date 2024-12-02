@@ -65,7 +65,7 @@ Feel free to check out my repositories, star what you like, and don’t hesitate
 
 Here are some of my most popular repositories that showcase my work:
 
-- [Repository 1]([https://github.com/mayankgudadhe/Terraform__aws_infra]): 
+- [Repository 1](https://github.com/mayankgudadhe/Terraform__aws_infra)
 
 ---
 
