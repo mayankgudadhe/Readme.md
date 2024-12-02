@@ -1,4 +1,3 @@
-# Readme.md
 # Hi there, I'm Mayank Gudadhe 👋
 
 Welcome to my GitHub profile! I am a passionate **DevOps Engineer** with a focus on cloud infrastructure, automation, and continuous delivery. I specialize in building scalable applications and optimizing development pipelines for high-performance and seamless deployment.
@@ -8,7 +7,7 @@ Welcome to my GitHub profile! I am a passionate **DevOps Engineer** with a focus
 I work with a wide range of tools and technologies, from cloud platforms to CI/CD pipelines, containerization, and automation. Here’s a quick look at what I use regularly:
 
 ### Cloud & Infrastructure
-- **Amazon Web Services (AWS)**: EC2, Lambda, S3, RDS, CloudFormation, etc.
+- **Amazon Web Services (AWS)**: EC2, Lambda, S3, RDS, VPC, SNS, CloudWatch, CloudTrail, EFS, IAM, CloudFormation, etc.
 - **Terraform**: Infrastructure as Code (IaC) for cloud resource management.
 - **Docker & Kubernetes (K8s)**: Containerization and container orchestration for scalable application deployment.
 
@@ -57,9 +56,8 @@ As a **DevOps Engineer**, my primary goal is to ensure that the development life
 
 ## 💬 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in)
+- [Email](mailto:mayankgudadhe310@gmail.com)
 
 Feel free to check out my repositories, star what you like, and don’t hesitate to open issues or pull requests if you find something that could be improved!
 
@@ -67,7 +65,7 @@ Feel free to check out my repositories, star what you like, and don’t hesitate
 
 Here are some of my most popular repositories that showcase my work:
 
-- [Repository 1](https://github.com/YOUR_GITHUB_USERNAME/repository-name): Description of the project and what it does.
+- [Repository 1]([https://github.com/YOUR_GITHUB_USERNAME/repository-name](https://github.com/mayankgudadhe/Terraform__aws_infra)): 
 
 ---
 
